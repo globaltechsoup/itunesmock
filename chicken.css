@@ -1,0 +1,39 @@
+body {
+	font-family: Lucida Grande;
+}
+
+ul {
+	list-style: none;
+}
+
+body {
+	background-color: #E8E8E8;
+}
+
+#beatles, #flaminglips, #moonrise {
+    margin-right: 40px;
+    border: 1px solid black;
+}
+
+p {
+	color:#888888;
+}
+
+#album {
+	font-size: 12px;
+}
+
+#band {
+	font-weight: bold;
+}
+
+#navmenu {
+	width: 150px; 
+	height: 500px; 
+	overflow: auto; 
+	padding: 5px;
+}
+
+li {
+	padding-bottom: 10px;
+}
